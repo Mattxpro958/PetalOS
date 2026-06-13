@@ -1,5 +1,4 @@
 # 🌸 PetalOS
-An OS, yeah, but I made by a complete beginner :3
 
 PetalOS is a WebOS. basically an operating system but web-based.
 
@@ -160,7 +159,6 @@ Built exclusively for Hack Club Stardance.
 
 ---
 
-## Development Log
 ## Development Log
 
 ### 2026-06-14
