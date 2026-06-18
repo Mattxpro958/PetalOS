@@ -1,4 +1,9 @@
 #desktop{
     width:100vw;
     height:100vh;
+
+    background-image:url("../assets/wallpapers/default.jpg");
+    
+    background-size:cover;
+    background-position:center;
 }
