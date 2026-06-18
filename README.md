@@ -163,7 +163,11 @@ Built exclusively for Hack Club Stardance.
 
 ### 2026-06-18
 
-* [ ] TBA
+* [x] Fullscreen desktop
+* [ ] A live wallpaper system that looks lively (In Progress)
+* [x] Dock
+* [ ] App launcher (In Progress)
+* [ ] Live clock (In Progress)
 
 ### 2026-06-13
 
