@@ -161,6 +161,10 @@ Built exclusively for Hack Club Stardance.
 
 ## Development Log
 
+### 2026-06-20
+
+Did so many things, will update soon
+
 ### 2026-06-18
 
 * [x] Fullscreen desktop
