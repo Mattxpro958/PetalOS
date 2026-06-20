@@ -25,9 +25,9 @@ Built exclusively for Hack Club Stardance.
 ### Phase 1 — Desktop Environment Foundation
 
 * [x] Project setup
-* [ ] Fullscreen desktop
+* [x] Fullscreen desktop
 * [ ] A live wallpaper system that looks lively (get the reference?)
-* [ ] Dock
+* [x] Dock
 * [ ] App launcher
 * [ ] Live clock
 * [ ] Notification area
