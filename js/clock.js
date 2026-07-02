@@ -32,11 +32,12 @@ function updateClock() {
         hours + ":" + minutes + ":" + seconds +
         "<br>" +
         "<small>" + date + "</small>";
+}
+
 
 updateClock();
 
 setInterval(
     updateClock,
     1000
-);
-}
+)

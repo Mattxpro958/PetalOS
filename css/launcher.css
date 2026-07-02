@@ -1,0 +1,50 @@
+#launcher-menu{
+    position:absolute;
+
+    bottom:100px;
+    left:50%;
+    
+    transform:translateX(-50%);
+
+    width:250px;
+
+    padding:15px;
+
+    border-radius:20px;
+
+    background:rgba(255,255,255,.15);
+
+    backdrop-filter:blur(20px);
+
+    display:none;
+
+    flex-direction:column;
+
+    gap:10px;
+}
+
+#launcher-menu.open {
+    display: flex;
+}
+
+#launcher-menu-button{
+    border:none;
+
+    background:rgba(255,255,255,.2);
+
+    color:white;
+
+    padding:12px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    text-align:left;
+
+    transition:.2s;
+}
+
+#launcher-menu button{
+    background:rgba(255,255,255,.3);
+}
